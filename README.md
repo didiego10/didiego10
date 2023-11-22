@@ -18,7 +18,7 @@
  
   ![Diego Moreno](https://github-readme-stats.vercel.app/api?username=didiego10&show_icons=true&theme=transparent)
 
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didiego10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=didiego10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  
